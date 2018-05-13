@@ -8,6 +8,13 @@ namespace Struct_Cat
 {
     class Program
     {
+        public enum Food { Fesh = 1, meat = 2, mouse = 3, whiskas = 4 }
+
+        struct Cat
+        {
+
+        }
+
         static void Main(string[] args)
         {
         }
